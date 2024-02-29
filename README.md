@@ -16,5 +16,5 @@
   - Resultado do projeto:
   
 <div>
-  <img src="https://github.com/Kiyoshizin/first-repository/blob/master/assets/img/site-image.jpg?raw=true"/>
+  <img src="https://github.com/Kiyoshizin/wide-converage/blob/main/assets/img/site-image.jpg?raw=true"/>
 </div>
